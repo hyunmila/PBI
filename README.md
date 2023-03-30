@@ -1,1 +1,2 @@
 # PBI
+✨ Podstawy Business Intelligence
